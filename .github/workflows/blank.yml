@@ -6,8 +6,8 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
-  pull_request:
+    branches: [ main ]"1931492888.1677ed0.8f098298b22a4ad3ae82709dfcb712c0"
+  pull_request:"55f1524c1af34108ad2b03bf83d6bdc6"
     branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -16,7 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  build:$ pip install python-instagram
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
